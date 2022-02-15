@@ -14,4 +14,4 @@ game with WebSocket connectivity for real time server to client communication.
 4. Start the application.
     * `npm start`
 
-Application should be up at [http://localhost:8080](http://localhost:8080).
+Application should be up at [http://localhost:8080](http://localhost:8000).
