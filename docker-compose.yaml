@@ -1,0 +1,7 @@
+services:
+  npm: 
+    image: node:14
+    working_dir: /app
+    entrypoint: ['npm']
+    volumes: 
+      - .:/app
