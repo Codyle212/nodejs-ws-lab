@@ -5,3 +5,5 @@ services:
     entrypoint: ['npm']
     volumes: 
       - .:/app
+    ports:
+      - '8000:8000'
